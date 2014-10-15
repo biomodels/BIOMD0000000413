@@ -1,3 +1,21 @@
+# BIOMD0000000413: DIIVENUS_fullmodel
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000413.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000413.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -28,4 +46,5 @@ mathematical models to provide high-resolution kinetics of hormone
 redistribution.
 
 This model corresponds to the full model described in the article.
+
 
